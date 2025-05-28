@@ -73,7 +73,7 @@ The code turns on one LED at a time, representing the traffic light sequence:
 ---
 
 ##  circuit Image
-![Traffic Light Simulation](circuit.png
+![Traffic Light Simulation](Traffic_Light.png
 )
 
 ---
